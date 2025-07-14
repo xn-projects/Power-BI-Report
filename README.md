@@ -112,6 +112,6 @@ Using this report helps make informed decisions and build a robust business deve
 ---
 
 The interactive Power BI dashboard file is available for download here:  
-[🔗 Download Olist_Sales_Report.pbix on Google Drive](https://drive.google.com/file/d/1jUmrATPZkhFti1vk2C4QRpEhl6lkyZgh/view?usp=sharing)
+[🔗 Download Power BI report.pbix on Google Drive](https://drive.google.com/file/d/1jUmrATPZkhFti1vk2C4QRpEhl6lkyZgh/view?usp=sharing)
 
 Please note: Due to GitHub’s file size limitations, the .pbix file is hosted externally on Google Drive.
